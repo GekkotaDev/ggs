@@ -1,0 +1,21 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/features=PackedStringArray("4.7")
+
+[autoload]
+
+GlobalSceneManager="*uid://dwycp85sl04s"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/at-icons/plugin.cfg", "res://addons/goactions/plugin.cfg", "res://addons/scenic/plugin.cfg")

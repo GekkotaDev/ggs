@@ -1,0 +1,26 @@
+[project]
+godot = "4.7.2-stable"
+
+[[dependency]]
+name = "at-icons"
+url = "https://github.com/Voxybuns/at-icons/releases/download/v1.5.0/at-icons_v1.5.0.zip"
+map = [{ from = "addons/at-icons", to = "addons/at-icons" }]
+
+[[dependency]]
+name = "goactions"
+url = "https://github.com/wokidoo/GoActions/archive/refs/tags/v1.1.zip"
+map = [{ from = "GoActions-1.1/addons/goactions", to = "addons/goactions" }]
+
+[[dependency]]
+name = "limboai"
+url = "https://github.com/limbonaut/limboai/releases/download/v1.8.1/limboai+v1.8.1.gdextension-4.6.zip"
+map = [
+	{ from = "addons/limboai", to = "addons/limboai" },
+	{ from = "demo", to = "examples/limboai" },
+]
+
+[[dependency]]
+name = "scenic"
+url = "https://github.com/flown-dev-1/Scenic/releases/download/v2.0.0/scenic_v2.0.0.zip"
+sha = "c6c8b785a7ef865f5d6eaf9dbb149fc3228a7798e24bd2531227a41823e6ad29"
+map = [{ from = "", to = "addons/scenic" }]

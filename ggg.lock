@@ -1,0 +1,19 @@
+[[dependency]]
+name = "at-icons"
+url = "https://github.com/Voxybuns/at-icons/releases/download/v1.5.0/at-icons_v1.5.0.zip"
+archive_sha = "e5a80cef70aa0da4c7ee786e9c548fee2f97266bf086946f09bb2a355ff9e90a"
+
+[[dependency]]
+name = "goactions"
+url = "https://github.com/wokidoo/GoActions/archive/refs/tags/v1.1.zip"
+archive_sha = "e4eef3b3cc86db0157dcfe23ffc12a6d139b675a635d0457da32c0c90dbbcec9"
+
+[[dependency]]
+name = "limboai"
+url = "https://github.com/limbonaut/limboai/releases/download/v1.8.1/limboai+v1.8.1.gdextension-4.6.zip"
+archive_sha = "0910411f8dbc0da8920f6c8bbbb6397c347cd9f2f193942468a702dfb11d5f0e"
+
+[[dependency]]
+name = "scenic"
+url = "https://github.com/flown-dev-1/Scenic/releases/download/v1.0.0/scenic_v1.0.0.zip"
+archive_sha = "c6c8b785a7ef865f5d6eaf9dbb149fc3228a7798e24bd2531227a41823e6ad29"
